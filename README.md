@@ -3,7 +3,8 @@
 A fun and interactive **flag-guessing game** built using **SwiftUI**! 🌍  
 Test your geography skills by selecting the correct flag for a given country.  
 
-![GuessTheFlag Preview](#) <!-- Add a screenshot of the app here -->
+<img src="https://github.com/user-attachments/assets/02c2f228-ef9f-4e42-9b0b-cf7d90cd2c93" alt="Preview" width="250" height="500">
+
 
 ---
 
@@ -23,7 +24,8 @@ The game keeps track of the player's **score**, applies **animations**, and feat
 ## 📸 Screenshots  
 | Home Screen | Correct Answer | Incorrect Answer | Game Over |  
 |------------|---------------|------------------|-----------|  
-| ![Home](#) | ![Correct](#) | ![Wrong](#) | ![GameOver](#) |  
+| <img src="https://github.com/user-attachments/assets/02c2f228-ef9f-4e42-9b0b-cf7d90cd2c93" alt="Preview" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/13cef423-a41c-4150-a471-3fd197ab015d" alt="Correct" width="250" height="500">
+ | <img src="https://github.com/user-attachments/assets/32fce8f6-0078-48a8-b2d4-0288f7bef48e" alt="Wrong" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/0969709b-e923-4634-b8e0-5e590c6b824a" alt="Game Over" width="250" height="500"> |  
 
 ---
 
